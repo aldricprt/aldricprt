@@ -40,7 +40,7 @@ Always looking for projects that push me to evolve, I’m driven by the idea of 
 
 ### 📫 Let’s Connect!
 
-<a href="https://www.linkedin.com/in/aldricprt/](https://www.linkedin.com/in/aldric-parent-1a33211a8/" target="_blank">
+<a href="https://www.linkedin.com/in/aldric-parent-1a33211a8/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-aldricprt-blue?style=flat&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="mailto:aldric.parent@etu.emse.fr">
